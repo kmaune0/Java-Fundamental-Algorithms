@@ -1,7 +1,7 @@
 // MyStack.java
 // (C) 2014 kmaune0
 // this example shows how to implement stack by creating user defined push()
-// method for entering elements and pop() method for retriving elements from
+// method for entering elements and pop() method for retrieving elements from
 // the stack.
 
 public class MyStack {
